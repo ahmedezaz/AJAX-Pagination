@@ -2,6 +2,7 @@
 
   $conn = mysqli_connect("localhost","root","","test") or die("Connection failed");
 
+// Limit used for pagination
   $limit_per_page = 5;
 
   $page = "";
