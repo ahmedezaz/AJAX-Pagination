@@ -12,7 +12,7 @@
     <div id="header">
       <h1>PHP & Ajax Pagination</h1>
     </div>
-
+<!-- Pagination and table will show from the dynamic code -->
     <div id="table-data">
     </div>
   </div>
